@@ -10,25 +10,20 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## 👨🏻‍💻Chris Nagy's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+👋🏻Hey, my name is Chris Nagy. I first heard about "the Cloud" 5 months ago. Now I'm AWS Certified and collaborating on creating this challenge!
 
-[✍️ Introduce yourself]
+I started this challenge because the best way to learn about something is to simply get your hands dirty. The consistency and hands-on experience provide a learning path and speed that is unmatched.
 
-[✍️ Tell us why you started this challenge]
+After I complete this challenge, I aim to have a skill level increase of at least 420%🙃
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Chris Nagy Twitter](https://twitter.com/chris_the_nagy)
+- [Chris Nagy LinkedIn](https://www.linkedin.com/in/hey-itschris/)
 
 ## Stepping out the door
 
-- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [My Day Article](Journey/000-My-Zero-Day.md)
-- [ ] ☁️ 1 >
+- [X] ☁️ 1 > Hands-on with AWS Amplify. Completed the [GraphQL Getting Started guide](https://docs.amplify.aws/start/q/integration/js). It really isn't that difficult, but also much more complicated and powerful than I thought! `amplify init 100daysofcloud && amplify publish😉`
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
