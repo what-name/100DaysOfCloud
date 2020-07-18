@@ -24,7 +24,7 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 ## Stepping out the door
 
 - [X] ☁️ 1 > Hands-on with AWS Amplify. Completed the [GraphQL Getting Started guide](https://docs.amplify.aws/start/q/integration/js). It really isn't that difficult, but also much more complicated and powerful than I thought! `amplify init 100daysofcloud && amplify publish😉`
-- [ ] ☁️ 2 >
+- [X] ☁️ 2 > Spent the whole afternoon figuring out how to continue working on a deployed Amplify app. It is not as easy as it sounds. I know a lot more about Amplify than I knew before, but still stuck🙃
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
 - [ ] ☁️ 5 >
