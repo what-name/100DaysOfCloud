@@ -23,9 +23,9 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 
 ## Stepping out the door
 
-- [X] ☁️ 1 > Hands-on with AWS Amplify. Completed the [GraphQL Getting Started guide](https://docs.amplify.aws/start/q/integration/js). It really isn't that difficult, but also much more complicated and powerful than I thought! `amplify init 100daysofcloud && amplify publish😉`
-- [X] ☁️ 2 > Spent the whole afternoon figuring out how to continue working on a deployed Amplify app. It is not as easy as it sounds. I know a lot more about Amplify than I knew before, but still stuck🙃
-- [ ] ☁️ 3 >
+- [X] ☁️ 1 > 16.07.20 - Hands-on with AWS Amplify. Completed the [GraphQL Getting Started guide](https://docs.amplify.aws/start/q/integration/js). It really isn't that difficult, but also much more complicated and powerful than I thought! `amplify init 100daysofcloud && amplify publish😉`
+- [X] ☁️ 2 > 17.07.20 - Spent the whole afternoon figuring out how to continue working on a deployed Amplify app. It is not as easy as it sounds. I know a lot more about Amplify than I knew before, but still stuck🙃
+- [X] ☁️ 3 > 18.07.20 - I learned so much about Amplify and realized that the currently deployed app has a problem. Most pieces finnaly clicked and a new app will be deployed! Also learned and understood how OAUTH2 and OIDC works.
 - [ ] ☁️ 4 >
 - [ ] ☁️ 5 >
 - [ ] ☁️ 6 >
