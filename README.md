@@ -27,8 +27,8 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 - [X] ☁️ 2 > 17.07.20 - Spent the whole afternoon figuring out how to continue working on a deployed Amplify app. It is not as easy as it sounds. I know a lot more about Amplify than I knew before, but still stuck🙃
 - [X] ☁️ 3 > 18.07.20 - I learned so much about Amplify and realized that the currently deployed app has a problem. Most pieces finnaly clicked and a new app will be deployed! Also learned and understood how OAUTH2 and OIDC works.
 - [ ] ☁️ 4 > 19.07.20 - Amplify has coupled but also decoupled frontend and backend environments. The CLI is used to work with the backend and the console for the frontend (as far as I can tell). Also added a project idea to the 100DaysOfCloudIdeas repo [about CloudFormation](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/OPS/OPS01/OPS01-AWS100.md)💪🏻
-- [ ] ☁️ 5 >
-- [ ] ☁️ 6 >
+- [ ] ☁️ 5 > 20.07.20 - Started working on a project that is breaking up a monolith. Dived a bit into ECS and Fargate, EFS and started building the Docker container🐳 Also created my first CodeCommit and Elastic Container Respoitory!
+- [ ] ☁️ 6 > 21.07.20 - Finished the project from yesterday, fully deployed on ECS & EFS. I learned so much about both services, ECS clusters, Task Definitions, Services vs Tasks and how containers are orchestrated on EC2 vs Fargate. Created an architectural diagram for it and wrote a giant Readme with the details📝
 - [ ] ☁️ 7 >
 - [ ] ☁️ 8 >
 - [ ] ☁️ 9 >
