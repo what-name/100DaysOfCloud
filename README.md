@@ -23,15 +23,15 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 
 ## Stepping out the door
 
-- [X] ☁️ 1 > 16.07.20 - Hands-on with AWS Amplify. Completed the [GraphQL Getting Started guide](https://docs.amplify.aws/start/q/integration/js). It really isn't that difficult, but also much more complicated and powerful than I thought! `amplify init 100daysofcloud && amplify publish😉`
-- [X] ☁️ 2 > 17.07.20 - Spent the whole afternoon figuring out how to continue working on a deployed Amplify app. It is not as easy as it sounds. I know a lot more about Amplify than I knew before, but still stuck🙃
-- [X] ☁️ 3 > 18.07.20 - I learned so much about Amplify and realized that the currently deployed app has a problem. Most pieces finnaly clicked and a new app will be deployed! Also learned and understood how OAUTH2 and OIDC works.
-- [X] ☁️ 4 > 19.07.20 - Amplify has coupled but also decoupled frontend and backend environments. The CLI is used to work with the backend and the console for the frontend (as far as I can tell). Also added a project idea to the 100DaysOfCloudIdeas repo [about CloudFormation](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/OPS/OPS01/OPS01-AWS100.md)💪🏻
-- [X] ☁️ 5 > 20.07.20 - Started working on a project that is breaking up a monolith. Dived a bit into ECS and Fargate, EFS and started building the Docker container🐳 Also created my first CodeCommit and Elastic Container Respoitory!
-- [X] ☁️ 6 > 21.07.20 - Finished the project from yesterday, fully deployed on ECS & EFS. I learned so much about both services, ECS clusters, Task Definitions, Services vs Tasks and how containers are orchestrated on EC2 vs Fargate. Created an architectural diagram for it and wrote a giant Readme with the details📝
-- [X] ☁️ 7 > 22.07.20 - Continued to work on the 100daysofcloud.com website's architecture with the team. I realized Amplify is holding us back at the moment and switched to Serverless🐿 Already deployed the very base of it with SAM and this way it'll be much faster and easier to iterate on and develop💪🏻
-- [ ] ☁️ 8 >
-- [ ] ☁️ 9 >
+- [X] ☁️ 1 > _16.07.20_ - Hands-on with AWS Amplify. Completed the [GraphQL Getting Started guide](https://docs.amplify.aws/start/q/integration/js). It really isn't that difficult, but also much more complicated and powerful than I thought! `amplify init 100daysofcloud && amplify publish😉`
+- [X] ☁️ 2 > _17.07.20_ - Spent the whole afternoon figuring out how to continue working on a deployed Amplify app. It is not as easy as it sounds. I know a lot more about Amplify than I knew before, but still stuck🙃
+- [X] ☁️ 3 > _18.07.20_ - I learned so much about Amplify and realized that the currently deployed app has a problem. Most pieces finnaly clicked and a new app will be deployed! Also learned and understood how OAUTH2 and OIDC works.
+- [X] ☁️ 4 > _19.07.20_ - Amplify has coupled but also decoupled frontend and backend environments. The CLI is used to work with the backend and the console for the frontend (as far as I can tell). Also added a project idea to the 100DaysOfCloudIdeas repo [about CloudFormation](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/OPS/OPS01/OPS01-AWS100.md)💪🏻
+- [X] ☁️ 5 > _20.07.20_ - Started working on a project that is breaking up a monolith. Dived a bit into ECS and Fargate, EFS and started building the Docker container🐳 Also created my first CodeCommit and Elastic Container Respoitory!
+- [X] ☁️ 6 > _21.07.20_ - Finished the project from yesterday, fully deployed on ECS & EFS. I learned so much about both services, ECS clusters, Task Definitions, Services vs Tasks and how containers are orchestrated on EC2 vs Fargate. Created an architectural diagram for it and wrote a giant Readme with the details📝
+- [X] ☁️ 7 > _22.07.20_ - Continued to work on the 100daysofcloud.com website's architecture with the team. I realized Amplify is not right for the project at the moment and switched to Serverless🐿 Already deployed the very base of it with SAM and this way it'll be much faster and easier to iterate on and develop💪🏻
+- [X] ☁️ 8 > _23.07.20_ - Learned a lot about CI/CD pipelines with Serverless applications. Most important piece is to deploy completely seperate stacks for `prod` and `dev` environments - it doesn't cost extra if it's not used much. Learned about CodePipeline as well in the same context.
+- [X] ☁️ 9 > _24.07.20_ - Disconnected the currently deployed 100DaysOfCloud website from Amplify so we can start migrating to serverless. Cleaned up some repositories together and started laying down the backend's base for the webapp. Learned more about SAM/CF, how to do nested stacks and pass parameters between them.
 - [ ] ☁️ 10 >
 
 ## Walking down the road
