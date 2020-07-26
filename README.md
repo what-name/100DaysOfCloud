@@ -32,7 +32,7 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 - [X] ☁️ 7 > _22.07.20_ - Continued to work on the 100daysofcloud.com website's architecture with the team. I realized Amplify is not right for the project at the moment and switched to Serverless🐿 Already deployed the very base of it with SAM and this way it'll be much faster and easier to iterate on and develop💪🏻
 - [X] ☁️ 8 > _23.07.20_ - Learned a lot about CI/CD pipelines with Serverless applications. Most important piece is to deploy completely seperate stacks for `prod` and `dev` environments - it doesn't cost extra if it's not used much. Learned about CodePipeline as well in the same context.
 - [X] ☁️ 9 > _24.07.20_ - Disconnected the currently deployed 100DaysOfCloud website from Amplify so we can start migrating to serverless. Cleaned up some repositories together and started laying down the backend's base for the webapp. Learned more about SAM/CF, how to do nested stacks and pass parameters between them.
-- [X] ☁️ 10 > _25.07.20_ - Created a SAM template for a Cognito User Pool, learned about authorizers and all the things you can do in CloudFormation with Cognito. Also Finished writing my SAM_02 blog post📝🧑🏻‍💻
+- [X] ☁️ 10 > _25.07.20_ - Created a SAM template for a Cognito User Pool, learned about authorizers and all the things you can do in CloudFormation with Cognito. Also Finished writing my [SAM_02 blog post](https://blog.heyitschris.com/posts/sam-02-dynamodb-lambda/)📝🧑🏻‍💻
 
 ## Walking down the road
 
