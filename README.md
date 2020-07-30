@@ -36,7 +36,7 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 
 ## Walking down the road
 
-- [ ] ☁️ 11 >
+- [X] ☁️ 11 > _29.07.20_ - I've been working on the 100DaysOfCloud website's backend architecture for the past couple of days and focusing on CloudFormation templates, figuring out how to set up CI/CD pipelines with the GitHub repo and CodePipeline. Since I didn't update here, it'll count as a single day in my book.
 - [ ] ☁️ 12 >
 - [ ] ☁️ 13 >
 - [ ] ☁️ 14 >
