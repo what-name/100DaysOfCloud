@@ -38,7 +38,7 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 
 - [X] ☁️ 11 > _29.07.20_ - I've been working on the 100DaysOfCloud website's backend architecture for the past couple of days and focusing on CloudFormation templates, figuring out how to set up CI/CD pipelines with the GitHub repo and CodePipeline. Since I didn't update here, it'll count as a single day in my book.
 - [X] ☁️ 12 > _30.07.20_ - Still trying to figure out how to set up a safe CI/CD pipeline for the 100DaysOfCloud website [in development] from our GitHub repo. It's a SAM application and it's my very first time with CodePipeline. It's not so easy haha but on top of this, I'm sticking to 100% IaC!😎 Give a couple days and it's gonna be running flawlessly!
-- [ ] ☁️ 13 >
+- [X] ☁️ 13 > _31.07.20_ - Finally got the CodePipeline with SAM working!!🥳 I'll definitely write a blog post about it later! Thanks to [@edjgeek](https://twitter.com/edjgeek) and his [amazing walkthrough](https://www.youtube.com/watch?v=0o3urdBeoII) and cookiecutter code!🍪
 - [ ] ☁️ 14 >
 - [ ] ☁️ 15 >
 - [ ] ☁️ 16 >
