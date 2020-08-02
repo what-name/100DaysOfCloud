@@ -12,14 +12,15 @@
 
 ## 👨🏻‍💻Chris Nagy's Cloud Journey
 
-👋🏻Hey, my name is Chris Nagy. I first heard about "the Cloud" 5 months ago. Now I'm AWS Certified and collaborating on creating this challenge!
+👋🏻Hey, my name is Chris Nagy. I first heard about "the Cloud" in March 2020. Now I'm AWS Certified and collaborating on creating this challenge! (it's so meta btw)
 
 I started this challenge because the best way to learn about something is to simply get your hands dirty. The consistency and hands-on experience provide a learning path and speed that is unmatched.
 
 After I complete this challenge, I aim to have a skill level increase of at least 420%🙃
 
-- [Chris Nagy Twitter](https://twitter.com/chris_the_nagy)
-- [Chris Nagy LinkedIn](https://www.linkedin.com/in/hey-itschris/)
+- [My Blog! Hey, it's Chris🧑🏻‍💻](https://blog.heyitschris.com)
+- [Chris Nagy - Twitter](https://twitter.com/chris_the_nagy)
+- [Chris Nagy - LinkedIn](https://www.linkedin.com/in/hey-itschris/)
 
 ## Stepping out the door
 
@@ -39,7 +40,7 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 - [X] ☁️ 11 > _29.07.20_ - I've been working on the 100DaysOfCloud website's backend architecture for the past couple of days and focusing on CloudFormation templates, figuring out how to set up CI/CD pipelines with the GitHub repo and CodePipeline. Since I didn't update here, it'll count as a single day in my book.
 - [X] ☁️ 12 > _30.07.20_ - Still trying to figure out how to set up a safe CI/CD pipeline for the 100DaysOfCloud website [in development] from our GitHub repo. It's a SAM application and it's my very first time with CodePipeline. It's not so easy haha but on top of this, I'm sticking to 100% IaC!😎 Give a couple days and it's gonna be running flawlessly!
 - [X] ☁️ 13 > _31.07.20_ - Finally got the CodePipeline with SAM working!!🥳 I'll definitely write a blog post about it later! Thanks to [@edjgeek](https://twitter.com/edjgeek) and his [amazing walkthrough](https://www.youtube.com/watch?v=0o3urdBeoII) and cookiecutter code!🍪
-- [ ] ☁️ 14 >
+- [X] ☁️ 14 > _01.08.20_ - 🔥Successfully deployed the SAM based CI/CD pipeline with CodePipeline! The latest issue was the `Location: ./sam/template.yaml` property which I didn't start with the `./`, resulting in an error. Well now it's working and the development of the 100DaysOfCloud website marches on😎
 - [ ] ☁️ 15 >
 - [ ] ☁️ 16 >
 - [ ] ☁️ 17 >
