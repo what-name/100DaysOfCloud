@@ -35,7 +35,7 @@ After I complete this challenge, I aim to have a skill level increase of at leas
 - [X] ☁️ 14 > _01.08.20_ - 🔥Successfully deployed the SAM based CI/CD pipeline with CodePipeline! The latest issue was the `Location: ./sam/template.yaml` property which I didn't start with the `./`, resulting in an error. Well now it's working and the development of the 100DaysOfCloud website marches on😎
 - [X] ☁️ 15 > _02.08.20_ - Learned about [Azure Resource Groups](https://johanrin.com/what-exactly-is-azure-resource-group/) and discovered quite an incident on my personal website's backend. I wrote [about it here!](https://not-blog.heyitschris.com/the-story-of-my-possibly-denial-of-wallet-attack-on-aws-serverless-ckddlds1u011oxvs1d873fhsy) - aka. it might have been a small denial of wallet attack.
 - [X] ☁️ 16 > _03.08.20_ - Learned a lot about and implemented simple rate limiting on my API Gateway resources after yesterday's accident😅 Also learned a lot about GitHub Actions, for example that they don't run from a non-default branch, only if stored on the default one🙃 [Here's an interesting post tho!](https://frontside.com/blog/2020-05-26-github-actions-pull_request/)
-- [ ] ☁️ 17 >
+- [X] ☁️ 17 > _04.08.20_ - I did the [NET04-AZ200](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/NET/NET04/NET04-AZ200.md) #100DaysOfCloud project! and started with Azure for the first time! I created a StorageAccount with containers (=buckets) and used AzureCDN to host a static website. I don't like Azure's naming of their regions and AZs tho, it's inconsistent🙄 (West US 2 // France Central // North Europe)
 - [ ] ☁️ 18 >
 - [ ] ☁️ 19 >
 - [ ] ☁️ 20 >
